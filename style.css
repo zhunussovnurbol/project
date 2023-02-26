@@ -192,6 +192,9 @@ body {
     height: 75px;
     margin: 20px;
   }
+  .f-text {
+    margin-left: 0;
+}
 }
 
 .review-block {
