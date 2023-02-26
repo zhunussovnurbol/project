@@ -186,6 +186,7 @@ body {
 @media (max-width: 500px) {
   .feature {
     flex-direction: column;
+    text-align: center;
   }
   .f-img img {
     width: 75px;
